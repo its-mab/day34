@@ -1,0 +1,172 @@
+
+
+.price-section{
+    background-color: #f5f9fa;
+}
+.price-text{
+    width: 100px;
+    margin: auto;
+    
+
+}
+.price-text h6{
+    color: #8d90ef;
+    font-weight: 600;
+}
+.price-text p {
+	width: 48%;
+	margin: auto;
+	color: #606060;
+    position: relative;
+}
+.price-text p::before{
+    content: "";
+	height: 1px;
+	width: 13%;
+	background-color:#0984e3 ;
+	position: absolute;
+	top: -29%;
+	left: 42%;
+}
+.price-text h4 {
+	font-weight: bold;
+	font-size: 28px;
+}
+
+/* card style */
+.card-title {
+    font-weight: 600;
+   }
+   
+.card-body h1 {
+    font-weight: 600;
+    font-size: 51px;
+    border-bottom: 1px solid #8d90ef;
+    width: 193px;
+    margin: auto;
+}
+   
+.card-text {
+    color: #606060;
+    font-size: 18px;
+   }
+   
+.card-style-button {
+    border-radius: 28px !important;
+    padding: 6px 23px !important;
+}
+.card.my-card {
+    border-radius: 0;
+    width: 278%;
+  }
+
+/* purchase part */
+.purchase-part {
+	background-image: linear-gradient( rgba(53, 117, 235, 0.72) ,rgb(53, 117, 235)), url(./free-bg.jpg);
+	padding: 100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+}
+.purchase-text{}
+.purchase-text h6{}
+.purchase-text h1 {
+	width: 75%;
+	margin: auto;
+	font-weight: 600;
+}
+.purchase-text p {
+	width: 60%;
+	margin: auto;
+	font-weight: 600;
+    position: relative;
+}
+
+.purchase-text p::before {
+	content: "";
+	height: 1px;
+	width: 13%;
+	background-color: #fff;
+	position: absolute;
+	top: -29%;
+	left: 42%;
+}
+.purchase-button {
+	background-color: #fff;
+	color: #0984e3;
+	font-weight: 600;
+	text-decoration: none;
+	padding: 15px 29px;
+	border-radius: 40px;
+}
+/* newsletter part */
+.newsletter-part{
+    padding: 150px;
+}
+.blue-part{
+    background-color: #3e63f2;
+    padding: 50px;
+    color: #fff;
+}
+.blue-part h6 {
+    font-size: 26px;
+    font-weight: 600;
+}
+   
+.blue-part p {
+    width: 60%;
+}
+   
+.blue-part input {
+    border-radius: 15px;
+    border: none;
+    padding: 3px 38px;
+ }
+   
+ .newsletter-button {
+	background-color: #3e63f2;
+	border: 1px solid white;
+	padding: 3px 12px;
+	border-radius: 15px;
+	font-weight: 600;
+	margin-left: 21px;
+}
+
+.white-part {
+	background-color: #fff;
+	padding: 36px 37px;
+}
+.white-part h4 {
+	font-weight: 600;
+	width: 82%;
+}
+.newsletter-other-button {
+	margin-top: 89px;
+	border-radius: 25px;
+	padding: 5px 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you want to grow your
+online business with
+Massive?
+Get Started
+Activate
+Go to Setting
